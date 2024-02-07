@@ -34,8 +34,8 @@ list_of_files= [
     "bentoff.yaml",
     "init_setup.sh",
     "tox.ini",
-    "requirement_dev.text",
-    "requirement.text",
+    "requirements_dev.txt",
+    "requirements.txt",
     "setup.py",
     "setup.chg"
 ]
