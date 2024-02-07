@@ -21,7 +21,7 @@ name="Xray",
 version="0.0.0",
 author="tina96pham",
 author_email="tina96pham@gmail.com",
-install_requires=get_requirements(r"setup.py"),
+install_requires=get_requirements(r"requirements_dev.txt"),
 package=find_packages()
 
 )

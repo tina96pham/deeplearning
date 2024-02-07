@@ -10,7 +10,9 @@ project_name= "Xray"
 list_of_files= [
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/cloud_storage/__init__.py",
-    f"src/{project_name}/cloud_storage/s3_operation.py"
+    f"src/{project_name}/cloud_storage/s3_operation.py",
+    f"src/{project_name}/cloud_storage/__init__.py",
+    f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestion.py",
     f"src/{project_name}/components/data_transformer.py",
     f"src/{project_name}/components/data_evaluation.py",
