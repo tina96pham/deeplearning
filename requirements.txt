@@ -4,5 +4,6 @@ joblib
 tqdm
 pip-chill
 wincertstore
+torch
 
 #-e .
